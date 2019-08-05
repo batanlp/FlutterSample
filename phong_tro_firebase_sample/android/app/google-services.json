@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "839675772122",
+    "firebase_url": "https://phongtro-f37ac.firebaseio.com",
+    "project_id": "phongtro-f37ac",
+    "storage_bucket": "phongtro-f37ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839675772122:android:9f07da01d7a1d00a",
+        "android_client_info": {
+          "package_name": "com.batanlp.phong_tro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839675772122-1393hndv96n1uq1r67h39fa59hoo8bvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObYtKPSibALVDBxVMyw9Uwu19O9Il7NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

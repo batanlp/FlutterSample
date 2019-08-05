@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>621939542163-19673jn7pthsgl3nfq0dl1fkm7jqt0sn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.621939542163-19673jn7pthsgl3nfq0dl1fkm7jqt0sn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkDBT_-yHUEhWEBE8FqEMb8mKgR7oUGJE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>621939542163</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.batanlp.rainbowFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>rainbowflutter-afdb2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rainbowflutter-afdb2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:621939542163:ios:bb119c9d15d2cffd</string>
+	<key>DATABASE_URL</key>
+	<string>https://rainbowflutter-afdb2.firebaseio.com</string>
+</dict>
+</plist>

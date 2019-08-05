@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621939542163",
+    "firebase_url": "https://rainbowflutter-afdb2.firebaseio.com",
+    "project_id": "rainbowflutter-afdb2",
+    "storage_bucket": "rainbowflutter-afdb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621939542163:android:dfd40a94f831b98f",
+        "android_client_info": {
+          "package_name": "com.batanlp.rainbow_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621939542163-ekpn7076q1c1q8lni8ipgno8gem2o1lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmKQKdseMSQ9rXfOotqgkqckp1fmfd_rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621939542163-ekpn7076q1c1q8lni8ipgno8gem2o1lf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621939542163-19673jn7pthsgl3nfq0dl1fkm7jqt0sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.batanlp.rainbowFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
